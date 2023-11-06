@@ -47,7 +47,6 @@ function Board(){
 			},1000);
 		}
 	}
-
   },[marks]);
 
   const changeMark = (i) => {

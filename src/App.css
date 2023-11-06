@@ -6,10 +6,10 @@
   display : inline-block;
 }
 
-.mark1{
+.mark2{
   background-image : url('images/dot.png');
 }
 
-.mark2{
+.mark1{
   background-image : url('images/cross.png');
 }
